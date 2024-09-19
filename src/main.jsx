@@ -4,9 +4,9 @@ import App from './components/App.jsx';
 import './index.css';
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode>
+  
     <App />
-  </StrictMode>,
+  ,
 )
 // import { useState, useEffect } from "react";
 // import ReactDOM from "react-dom/client";
